@@ -1,0 +1,10 @@
+.tilt {
+  background: linear-gradient(89deg, #9874aa 0%, #4c69d0 100%);
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    width: 500px;
+                   
+}
